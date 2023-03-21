@@ -39,3 +39,24 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+section {
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(images/dream-bg.png);
+    margin-bottom: 150px;
+}
+
+.secend-part {
+    background-position: right;
+}
+
+.half-width {
+    color: ;
+}
+
+.new-tab {
+    background-image: linear-gradient(rgb(0, 0, 120), rgb(85, 192, 234));
+    color: white;
+
+}
